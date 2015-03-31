@@ -1,0 +1,3 @@
+1. Create the moving space that bigger than the iphone screen
+2. Create the character
+3. Let the character follow your touch spot
